@@ -87,7 +87,7 @@ public struct SymbolsPicker<Content: View>: View {
                 vm.searchSymbols(with: newValue)
             }
         }
-    }.frame(width: 500, height: 400)
+    }
 
 }
 
