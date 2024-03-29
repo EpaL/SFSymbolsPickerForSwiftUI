@@ -31,7 +31,7 @@ public struct SymbolsPicker<Content: View>: View {
     
     @ViewBuilder
     public var body: some View {
-        NavigationView {
+        NavigationStack {
             VStack {
                 SearchBar(searchText: $searchText, label: vm.searchbarLabel)
                 
@@ -69,13 +69,10 @@ public struct SymbolsPicker<Content: View>: View {
                             closeButtonView
                         }
                     }
-                }
-                .frame(minWidth: 0, maxWidth: .infinity)
-                .padding(.vertical, 5)
+                }.padding(.vertical, 5)
                 
-            }.frame(minWidth: 0, maxWidth: .infinity)
-            .padding(.horizontal, 5)
-        }.frame(minWidth: 0, maxWidth: .infinity)
+            }.padding(.horizontal, 5)
+        }
         
         .onChange(of: selection) { newValue in
             if(vm.autoDismiss) {
