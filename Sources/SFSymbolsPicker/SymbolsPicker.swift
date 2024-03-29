@@ -70,9 +70,11 @@ public struct SymbolsPicker<Content: View>: View {
                         }
                     }
                 }
+                .frame(minWidth: 0, maxWidth: .infinity)
                 .padding(.vertical, 5)
                 
-            }.padding(.horizontal, 5)
+            }.frame(minWidth: 0, maxWidth: .infinity)
+            .padding(.horizontal, 5)
         }.frame(minWidth: 0, maxWidth: .infinity)
         
         .onChange(of: selection) { newValue in
