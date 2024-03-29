@@ -73,7 +73,7 @@ public struct SymbolsPicker<Content: View>: View {
                 .padding(.vertical, 5)
                 
             }.padding(.horizontal, 5)
-        }.frame(minWidth: 0, maxWidth: .infinite)
+        }.frame(minWidth: 0, maxWidth: .infinity)
         
         .onChange(of: selection) { newValue in
             if(vm.autoDismiss) {
