@@ -30,16 +30,13 @@ struct SearchBar: View {
                 }
             }
                 .padding(.vertical, 8)
-                .padding(.leading, 10)
-                .padding(.trailing, 15)
-                .foregroundColor(.secondary)
+                .padding(.leading, 5)
+                .padding(.trailing, 5)
 #if os(iOS)
                 .background(Color(.systemGray6))
 #else
-                .background(Color(.systemGray))
+                .background(Color(.windowBackgroundColor))
 #endif
-                .cornerRadius(8)
-                .padding(.horizontal, 5)
                 .onTapGesture {
                     self.isEditing = true
                 }

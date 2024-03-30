@@ -22,7 +22,7 @@ struct UsageExample: View {
                 
                 Image(systemName: icon).font(.title3)
                     .sheet(isPresented: $isPresented, content: {
-                        SymbolsPicker(selection: $icon, title: "Choose your symbol", autoDismiss: true) {
+                        SymbolsPicker(selection: $icon, title: "Choose your symbol") {
                             Image(systemName: "xmark.diamond.fill")
                         }
                     }).padding()
