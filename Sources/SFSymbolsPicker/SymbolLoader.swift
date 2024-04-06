@@ -11,6 +11,18 @@ import Foundation
 public class SymbolLoader {
 
   private let preferredSymbols = [
+    "arrow.left.arrow.right",
+    "arrow.up.arrow.down",
+    "arrow.left.arrow.right.circle",
+    "arrow.left.arrow.right.square",
+    "arrow.up.arrow.down.circle",
+    "arrow.up.arrow.down.square",
+    "arrow.left.and.right",
+    "arrow.up.and.down",
+    "arrow.left.and.right.square",
+    "arrow.up.and.down.square",
+    "arrowshape.left.arrowshape.right",
+    "arrowshape.left.arrowshape.right.fill",
     "globe",
     "globe.asia.australia",
     "globe.americas",
@@ -68,7 +80,16 @@ public class SymbolLoader {
     "car",
     "bonjour",
     "gauge.with.dots.needle.bottom.0percent",
-    "gauge.with.dots.needle.bottom.50percent"
+    "gauge.with.dots.needle.bottom.50percent",
+    "circle",
+    "square",
+    "app",
+    "rectangle",
+    "rectangle.portrait",
+    "capsule",
+    "capsule.portrait",
+    "oval",
+    "oval.portrait"
   ]
   
   private let symbolsPerPage = 100
