@@ -1,0 +1,12 @@
+{
+  "/Users/elawford/Work/Xcode Projects/SFSymbolsPicker/Sources/SFSymbolsPicker/SearchBar.swift" : {
+    "abi-baseline-json" : "/Users/elawford/Work/Xcode Projects/SFSymbolsPicker/build/SFSymbolsPicker.build/Release/SFSymbolsPicker.build/Objects-normal/arm64/SFSymbolsPicker.abi.json",
+    "const-values" : "/Users/elawford/Work/Xcode Projects/SFSymbolsPicker/build/SFSymbolsPicker.build/Release/SFSymbolsPicker.build/Objects-normal/arm64/SFSymbolsPicker-primary.swiftconstvalues",
+    "dependencies" : "/Users/elawford/Work/Xcode Projects/SFSymbolsPicker/build/SFSymbolsPicker.build/Release/SFSymbolsPicker.build/Objects-normal/arm64/SFSymbolsPicker-primary.d",
+    "diagnostics" : "/Users/elawford/Work/Xcode Projects/SFSymbolsPicker/build/SFSymbolsPicker.build/Release/SFSymbolsPicker.build/Objects-normal/arm64/SFSymbolsPicker-primary.dia",
+    "objc-header" : "/Users/elawford/Work/Xcode Projects/SFSymbolsPicker/build/SFSymbolsPicker.build/Release/SFSymbolsPicker.build/Objects-normal/arm64/SFSymbolsPicker-Swift.h",
+    "swiftdoc" : "/Users/elawford/Work/Xcode Projects/SFSymbolsPicker/build/SFSymbolsPicker.build/Release/SFSymbolsPicker.build/Objects-normal/arm64/SFSymbolsPicker.swiftdoc",
+    "swiftmodule" : "/Users/elawford/Work/Xcode Projects/SFSymbolsPicker/build/SFSymbolsPicker.build/Release/SFSymbolsPicker.build/Objects-normal/arm64/SFSymbolsPicker.swiftmodule",
+    "swiftsourceinfo" : "/Users/elawford/Work/Xcode Projects/SFSymbolsPicker/build/SFSymbolsPicker.build/Release/SFSymbolsPicker.build/Objects-normal/arm64/SFSymbolsPicker.swiftsourceinfo"
+  }
+}
