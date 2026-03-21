@@ -191,434 +191,434 @@
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/Accessibility.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/Accessibility-BI0X4LHOV2P3QIVITXBCZQAYV.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/Accessibility-3KXUCUDBQE7OOTGGSXP3L46AJ.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Accessibility"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/AppKit.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/AppKit-AGQROBA7R2RX5MX6UU29WGJCQ.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/AppKit-5IBANRRXYQ9J1YH2FXCLYF9U9.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "AppKit"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/ApplicationServices.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/ApplicationServices-F0UIB8KT4Z9RWPSWZKSHJJZSF.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/ApplicationServices-10EVKS7XOLMY1QLT0V2AY58MB.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "ApplicationServices"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CFNetwork.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/CFNetwork-19ADHU5EBT7N2644HQCR8TNHA.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/CFNetwork-7RXQXKUWCSHJ4B9584RF9SA97.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CFNetwork"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/cups.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/CUPS-55SDAO5FVT13DZKXESQ05KPIA.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/CUPS-BJO7RG5D2BRVJFS1CUCK19SK3.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CUPS"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/ColorSync.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/ColorSync-2U79WFASK8B9RZRXC30YFFFK5.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/ColorSync-2DJGU449FD472Q9EWYSVDXISV.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "ColorSync"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreData.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/CoreData-AJWW3WC03BLTEB7EYDC09B0SV.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/CoreData-D84JZUY5ZWDRU3M9XDHVX9AIT.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreData"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreFoundation.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/CoreFoundation-C66IJTFKOW7CS790FD0V0SAV9.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/CoreFoundation-2GZM559WCVMWCDQY9MJHARZ95.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreFoundation"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreGraphics.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/CoreGraphics-EHYQTNOI7WX296FURLB1A6CDP.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/CoreGraphics-25IRQH0C34K5R37ERGHTVMQC6.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreGraphics"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreImage.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/CoreImage-9S5QM30RXIJPOJXCXKJZL0CO1.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/CoreImage-BG3E6TITRMTTVETE50E3RMZEN.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreImage"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreServices.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/CoreServices-3X1GWR8YO1U254G537IX4BJ2I.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/CoreServices-74W8IT04A2SC807AMDGYDASHW.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreServices"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreText.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/CoreText-DE8J8L4KVP24PF23WA61UGIRI.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/CoreText-7RP1XIE4NYZB4OJ2DDHJC8LVY.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreText"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreTransferable.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/CoreTransferable-E1LY4INHBRKCWBXX2W6IZGVHH.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/CoreTransferable-IN3RHUOWZJ3EY3RNB1RDYEN6.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreTransferable"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreVideo.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/CoreVideo-82VFK30CJ2Z8EYR13JIWZLD9D.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/CoreVideo-D4S43B4W14X43C22F8X8YLKNO.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreVideo"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/Darwin.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/Darwin-6LPIBEB9X4BE8DR3UAN2HIW7X.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/Darwin-378D0IO2CS2JE51LYLY50FJ6B.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Darwin"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/DataDetection.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/DataDetection-40ARN4QW5CGGSG5J9O4NQAKFJ.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/DataDetection-BVRZCZI2VWOS7IXV7ONA5TJB5.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "DataDetection"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/DeveloperToolsSupport.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/DeveloperToolsSupport-DCCNMDJPJTHGUROGIPVG56BF1.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/DeveloperToolsSupport-4C7O30M7WJPT8PWNSLJPHV0EW.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "DeveloperToolsSupport"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/DiskArbitration.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/DiskArbitration-3RBMLEH627BQ9E9JT88LOM28.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/DiskArbitration-6RGDBRI0HWT5FXQV2BP20IAQA.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "DiskArbitration"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/dispatch.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/Dispatch-51BKFRSJK2ATETXL4GK1NOEV3.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/Dispatch-C31ZMWQ4H72KUQME83DLRV766.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Dispatch"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/Foundation.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/Foundation-724M2HPBC50I11WNUPEOE6Q3O.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/Foundation-9C0BRDJ902SWADH0AAVV887FZ.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Foundation"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/IOKit.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/IOKit-9F5DJGWD6YYHSVU83YG1ZR522.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/IOKit-BVZL4GFIC0NTJ53VMVY3002LX.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "IOKit"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/IOSurface.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/IOSurface-1VZ5LPRGAZO4XKV3BZIIYRHI9.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/IOSurface-CLGJSSCDRVK1D87D98FWSI6BP.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "IOSurface"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/ImageIO.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/ImageIO-7HMLNA5UVKQ57T8J4WGT29P62.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/ImageIO-EM369LE0MG2TH9H5JN19S2KDS.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "ImageIO"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/DarwinBasic.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/MachO-EAP34UGT2APF9PQNV3G1V5TE6.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/MachO-9LLBZWJY08XTX6P57T718DYAD.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "MachO"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/Metal.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/Metal-1KUPTJAOI5QNAQ4PULKTOA0ZR.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/Metal-5UVXAG4PT64T8Q1RDN768H7CG.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Metal"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/OSLog.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/OSLog-5Y2M94WJWS1RPPAM30R1QDF9X.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/OSLog-D60WWSHX60SNG4YZKEP8BBHRM.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "OSLog"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/ObjectiveC.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/ObjectiveC-3C8UXYYQY3J5UCFZ56HQ7IG5B.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/ObjectiveC-45KG508WIPXONZ6HADBYH542C.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "ObjectiveC"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/OpenGL.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/OpenGL-CUNWOGUHRBXEO78JYIIPLAUTF.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/OpenGL-EY4OTU1CFHSC5MWUPG8UBZ245.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "OpenGL"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/QuartzCore.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/QuartzCore-9G5Y1ZB4S92FW9NV24S5IXRDN.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/QuartzCore-XWGFRVNZ2NO4C2T3DYUKJFCV.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "QuartzCore"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/Security.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/Security-6ZJPOWY4HIDDY82KXOQSDXVEE.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/Security-1BNHFWJAEBUZ39D6JEB7MW90W.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Security"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/Spatial\/module.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/Spatial-745HG9KIJ7J5RMRRW6GR47J0K.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/Spatial-7I8BRMGSAC8JGBQ531AS36MXM.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Spatial"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/lib\/swift\/shims\/module.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/SwiftShims-D301H786Y8YE9HJHAZ5P96KX.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/SwiftShims-DEWT41X1Q5LT7KUENJIX1DCY8.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "SwiftShims"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/SwiftUI.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/SwiftUI-323G2MRG365NCKMLRJDH003HH.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/SwiftUI-DDOG9RD12CAD3OD4D2MHGVM46.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "SwiftUI"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/SwiftUICore.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/SwiftUICore-DB5CUA6KLFSCDCB76FOL8BNKQ.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/SwiftUICore-22IUR39C6HP6RMCGF2EUMG38T.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "SwiftUICore"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/Symbols.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/Symbols-2KMY0ECY6ION7YIE63A5WMC5F.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/Symbols-6YD41FFZ01XF6TC4KK8OLPNEL.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Symbols"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/UniformTypeIdentifiers.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/UniformTypeIdentifiers-502VKXT1YWFCLKTHBGXZD7O5W.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/UniformTypeIdentifiers-83PBAVG12SA5KKPKR6L6R5U51.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "UniformTypeIdentifiers"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/xpc.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/XPC-59YOL4YOX8MA0DJQ81OD8TPC3.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/XPC-49DDECKRMLJXZOWQ68XS0Z0S4.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "XPC"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/DarwinFoundation1.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/_AvailabilityInternal-8G57DOET8QQNQ0KBZEOOBAA5S.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/_AvailabilityInternal-50T8DIH6W9997XOAW2ETFI0RH.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_AvailabilityInternal"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/17\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/_Builtin_float-BZ445S5MKKOIDEX014CA5M1R8.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/_Builtin_float-5OVZT50CNMZQ71VFZ9XOLQJYW.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_float"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/17\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/_Builtin_intrinsics-EB88G01LH58TLXJ64FZFEVVWZ.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/_Builtin_intrinsics-DBRNG7OJKNFSQY40KULFZZPEZ.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_intrinsics"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/17\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/_Builtin_inttypes-2E6HHHZL7M24VUU2VQJUAMAJ8.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/_Builtin_inttypes-14CSTY8UWGACEHUTG7V4V9BX2.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_inttypes"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/17\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/_Builtin_limits-5CZK0ODGDUTAJM3MNSEN5P53X.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/_Builtin_limits-26DA4SGADG29KBMRGU27KWV77.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_limits"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/17\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/_Builtin_stdarg-8RDRLSL8HG75N873KCW6R381E.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/_Builtin_stdarg-54HPLG4Y5CXBMPJQVUQT9I26H.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_stdarg"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/17\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/_Builtin_stdatomic-6HAAVBFXPF8TSLMFWWT90VZWN.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/_Builtin_stdatomic-2R3FKM867IADO7691AKBRMFBK.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_stdatomic"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/17\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/_Builtin_stdbool-96G9EOZFZFVXXE62SPSHWEG2G.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/_Builtin_stdbool-CI6PDTT1WF5KTXGIHDQWZG9P2.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_stdbool"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/17\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/_Builtin_stddef-8TDU3V5FGONORP1R0GTSEEUZD.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/_Builtin_stddef-6QRQSLP26U8PYUY9RA1BY8GLX.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_stddef"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/17\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/_Builtin_stdint-5M8ANSGG94ZT8ME16N4C89SZD.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/_Builtin_stdint-6RFFNYCHKFRCKU68T5CU7IHA8.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_stdint"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/17\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/_Builtin_tgmath-6FCHRGVFLP7FHTJLBR6G46DW4.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/_Builtin_tgmath-DLG4LWQ22M8XRSSQZ98EIB3C7.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_tgmath"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/DarwinFoundation1.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/_DarwinFoundation1-1XUWJEE60RSSQK22JB2ZZXRSN.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/_DarwinFoundation1-2FZ9RQS8F74R4P8ZSQZJO71S7.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_DarwinFoundation1"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/DarwinFoundation2.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/_DarwinFoundation2-E0GX24ULQP78357V02ETJXFEU.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/_DarwinFoundation2-701DZCJIEAZC1OYRCUOX2CF51.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_DarwinFoundation2"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/DarwinFoundation3.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/_DarwinFoundation3-9RDR7XYWSYI99TOVU6A47PCMN.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/_DarwinFoundation3-49VU2PVQZ7I6DYJV8LY920MW8.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_DarwinFoundation3"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/lib\/swift\/shims\/module.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/_SwiftConcurrencyShims-8MIFEY0XBXF2JGEUZAMSE5W3.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/_SwiftConcurrencyShims-1BZQGOY59CNIY7T1CXCFDKBH3.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_SwiftConcurrencyShims"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/launch.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/launch-8W3I11RQV84IUMMKD67K9JVUT.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/launch-23UKN3YY1HXTQHHPBVPKBWQB3.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "launch"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/libDER\/module.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/libDER-2BLEDQWA6JKCX28ZXM0Y771QX.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/libDER-B9KE2JVASVCXWTN1EVZTBW15L.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "libDER"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/libkern.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/libkern-CHX62PQK7O5R7OCT8RYE9BDHT.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/libkern-2145SP2RO1D515VPW3UVIJ9NQ.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "libkern"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/os.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/os-F3OXST9YJ8UWVN8HLCRB7ABU7.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/os-9RNK2SJJZMSQPQR8Q0OOEXZV8.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "os"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/os.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/os_object-CFGGZJPCUWND3CDGPUEH60H1D.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/os_object-3F6V3SCT29CDN264WB2G61GPL.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "os_object"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/os.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/os_workgroup-84DQ4QD4KBJ4MXHVQ0IM4GU7R.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/os_workgroup-8OS7F7MB0TVRMM92UREAP1ZFZ.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "os_workgroup"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/17\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/ptrauth-1SOSP0599FDQ0502T3D5F73CR.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/ptrauth-1K9KV1919L425EWIKYV8P69M0.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "ptrauth"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/17\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/ptrcheck-8QF01V0VBFW7QY5YJKGOQ3XVJ.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/ptrcheck-98892MA5YVFU65NT6BT6BLN1X.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "ptrcheck"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/simd\/module.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/simd-3XP023BMMTPK7K9SPJYW0JI5E.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/simd-AH69JBE0L1YM11GC9L2VNAI4N.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "simd"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/DarwinFoundation2.modulemap",
-    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/sys_types-2O48YLP0MRHMFG95Y3XSCIKHI.pcm",
+    "clangModulePath" : "\/Users\/elawford\/Work\/Xcode Projects\/SFSymbolsPicker\/build\/SwiftExplicitPrecompiledModules\/sys_types-9FPC80CO38FKPXHZWALKJAYNB.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "sys_types"

@@ -35,8 +35,6 @@ public class SymbolLoader {
     "wifi.circle",
     "wifi.square",
     "dot.radiowaves.left.and.right",
-    "dot.radiowaves.left.and.right",
-    "dot.radiowaves.left.and.right",
     "wave.3.backward",
     "wave.3.backward.circle",
     "house",
@@ -117,78 +115,43 @@ public class SymbolLoader {
     "y.circle",
     "z.circle"
   ]
-  
-  private let symbolsPerPage = 100
-  private var currentPage = 0
-  private final var allSymbols: [String] = []
-  
+
+  /// All available SF Symbol names, with preferred symbols promoted to the front.
+  public private(set) var allSymbols: [String] = []
+
   public init() {
-    self.allSymbols = getAllSymbols()
+    self.allSymbols = loadAllSymbols()
   }
 
-  // Retrieves symbols for the current page
-  public func getSymbols() -> [String] {
-    currentPage += 1
+  /// Returns symbols whose name contains the given query (case-insensitive).
+  public func symbols(matching query: String) -> [String] {
+    let trimmed = query.trimmingCharacters(in: .whitespaces)
+    guard !trimmed.isEmpty else { return allSymbols }
+    return allSymbols.filter { $0.localizedCaseInsensitiveContains(trimmed) }
+  }
 
-    // Calculate start and end index for the requested page
-    let startIndex = (currentPage - 1) * symbolsPerPage
-    let endIndex = min(startIndex + symbolsPerPage, allSymbols.count)
+  // MARK: - Private
 
-    // Extract symbols for the page
-    return Array(allSymbols[startIndex..<endIndex])
-  }
-  
-  // Retrieves symbols that start with the specified name
-  public func getSymbols(named name: String) -> [String] {
-    return allSymbols.filter({$0.lowercased().starts(with: name.lowercased())})
-  }
-  
-  // Checks if there are more symbols available
-  public func hasMoreSymbols() -> Bool {
-    return currentPage * symbolsPerPage < allSymbols.count
-  }
-  
-  // Resets the pagination to the initial state
-  public func resetPagination() {
-    currentPage = 0
-  }
-  
-  // Loads all symbols from the plist file
-  private func getAllSymbols() -> [String] {
-    var allSymbols = [String]()
+  private func loadAllSymbols() -> [String] {
+    var symbols = [String]()
     if let bundle = Bundle(identifier: "com.apple.CoreGlyphs"),
         let resourcePath = bundle.path(forResource: "name_availability", ofType: "plist"),
         let plist = NSDictionary(contentsOfFile: resourcePath),
         let plistSymbols = plist["symbols"] as? [String: String]
     {
-      // Get all symbol names, sorted alphabetically
-      allSymbols = Array(plistSymbols.keys)
+      symbols = Array(plistSymbols.keys).sorted()
     }
-    
-    // Rearrange preferred symbols to the front
+
+    // Promote preferred symbols to the front
     var destIndex = 0
     for preferredSymbol in preferredSymbols {
-      if let index = allSymbols.firstIndex(of: preferredSymbol) {
-        allSymbols = rearrange(array: allSymbols, fromIndex: index, toIndex: destIndex)
+      if let index = symbols.firstIndex(of: preferredSymbol) {
+        let element = symbols.remove(at: index)
+        symbols.insert(element, at: destIndex)
         destIndex += 1
       }
     }
-    
-    return allSymbols
-  }
-  
-  /// Rearrange an item in an array from one index to another.
-  /// - Parameters:
-  ///   - array: The array to rearrange.
-  ///   - fromIndex: The starting index of the element
-  ///   - toIndex: The index to move the element to.
-  /// - Returns: The new, rearranged array.
-  private func rearrange<T>(array: Array<T>, fromIndex: Int, toIndex: Int) -> Array<T>{
-    var arr = array
-    let element = arr.remove(at: fromIndex)
-    arr.insert(element, at: toIndex)
 
-    return arr
+    return symbols
   }
 }
-
